@@ -1,5 +1,5 @@
 menu:
-- {name: 'bio', url: '/about'}
+- {name: 'bio', url: '/bio'}
 - {name: 'writing', url: '/writing'}
 - {name: 'commercial', url: '/commercial'}
 - {name: 'contact', url: '/contact'}
