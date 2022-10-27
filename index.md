@@ -3,6 +3,12 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+“MASC FOR FEMME” and “ORDINARY TALK”, two poems in Anomaly Magazine.
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+“INFERNAL DESIRE MACHINES”, a poem in /THIS.
+
+“THE ZOOKEEPER”, a very small story for Visual Verse.
+
+“EXPERIENCING GENDER EUPHORIA VIA 4 EURO MENS’ RUNNING SHORTS”, a feature for DADDY Magazine.
+
+Give me more -> 
