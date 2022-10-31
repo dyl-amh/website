@@ -4,15 +4,10 @@ layout: default
 
 {{ content }}
 
-<div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">For Your Reading Pleasure</h3>
-    {% for item in site.data.publications.featured %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      {% endfor %}
-</div>
+{% include featured_publications.html %}
 
 <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Selected Previous (2014-2019)</h3>
+    <h3 class="fw-bold border-bottom pb-3 mb-5 title">Selected Previous (2014-2019)</h3>
       {% for item in site.data.publications.index %}
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
