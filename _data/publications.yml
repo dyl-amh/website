@@ -1,10 +1,11 @@
 featured:
+- {name: '“HALF A MILLION MOTHERS”, an interactive poem.', url: 'https://mothers.dylanmcnultyholmes.com'}
 - {name: '“MASC FOR FEMME” and “ORDINARY TALK”, two poems in Anomaly Magazine.', url: 'https://anmly.org/ap35/dylan-mcnulty-holmes/'}
 - {name: '“INFERNAL DESIRE MACHINES”, a poem in /THIS.', url: 'https://thisissue01.cargo.site/Dylan'}
-- {name: '“THE ZOOKEEPER”, flash fiction for Visual Verse.', url: 'https://visualverse.org/submissions/the-zookeeper/'}
 - {name: '“EXPERIENCING GENDER EUPHORIA VIA 4 EURO MENS’ RUNNING SHORTS”, a feature for DADDY Magazine.', url: 'https://www.daddy.land/stories/experiencing-gender-euphoria-via-7-euro-mens-running-shorts'}
 
 index:
+- {name: '“THE ZOOKEEPER”, flash fiction for Visual Verse.', url: 'https://visualverse.org/submissions/the-zookeeper/'}
 - {name: '“THE BEEKEEPER”, an erotic story for Nothing to See Here. (Illustrations by Judy Moore available as a T-shirt at this link.)', url: 'https://tom-or-judy.creator-spring.com/listing/buy-bee-keeper?product=389'}
 - {name: '“THE MORRIGAN”, a short story for Literally Speaking Journal (print, edition of 100).', url: 'https://www.facebook.com/literallyspeakingberlin'}
 - {name: 'INTERVIEW SERIES: BRUCE LABRUCE, NHU DUONG, ISABEL LEWIS, a series of features for SLEEK magazine.', url: 'https://www.sleek-mag.com/article/nhu-duong-interview/'}
