@@ -5,7 +5,15 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 people:
-- {name: 'Dylan McNulty-Holmes', email: 'dyl.amh@protonmail.com', image: 'assets/img/dylan-mcnulty-holmes.jpg', url: '/about'}
+- {name: 'Dylan McNulty-Holmes', email: 'dyl.amh@protonmail.com', image: 'assets/img/dylan-mcnulty-holmes.jpg', url: '/about', bio: 'I’m Dylan McNulty-Holmes (he/they), a writer and editor from the West Midlands of the UK currently based in Berlin. My writing has been made into a T-shirt, live-scored by a disco band, and hung in a Späti as part of an art gallery show. It has also appeared in over 20 journals and zines; a selected bibliography of my recent works can be found on the “writing” page.
+
+I have been a freelance writer, editor and content strategist since 2018, with a focus on arts, non-profits, and tech. Teams I have worked with include DADDY Magazine, Gestalten, Doodle, aequa Community Collective, Women in Exile e.V., and the AI Guild. As part of my work as an editor, I have also overseen branded content campaigns for clients including Netflix, BMW, and IBM. A range of my clippings can be found here.
+
+I am currently helping to co-organise The Reading, a monthly event series that pairs established novelists with emerging local writers. I was also a founding member of the Thick Skin collective. We hosted weekly workshops and public bi-monthly events where writers would collaborate with artists to create new works, and sell limited edition hand-bound zines of the resulting texts. I have also performed at countless events around Berlin, including Literally Speaking, Fiction Canteen, Queer Stories and UNIT Festival.
+
+I am an occasional co-facilitator of the Smut Lab, an underground queer erotic workshop for writers and perverts, for which I’ve devised workshops on topics including writing smut beyond the visual sense and building an erotic vocabulary. 
+
+When I’m not busy writing my arse off, I read tarot, do terrible karaoke, and am teaching myself to code (why yes, I did build this website!). If you’d like to get in touch, please do say hi.'}
 
 
 courses:
