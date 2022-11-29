@@ -5,13 +5,20 @@ layout: default
 {{ content }}
 
 <div>
+  <h3 class="fw-bold border-bottom pb-3 mb-5 title">FORTHCOMING</h3>
+    {% for item in site.data.publications.forthcoming %}
+      <p>{{ item.name }}</p>
+    {% endfor %}
+</div>
+
+<div>
   {% include featured_publications.html %}
   <br>
   <br>
   </div>
 
 <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5 title">Selected Previous (2014-2019)</h3>
+    <h3 class="fw-bold border-bottom pb-3 mb-5 title">SELECTED PREVIOUS (2014-2019)</h3>
       {% for item in site.data.publications.index %}
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
