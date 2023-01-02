@@ -2,8 +2,8 @@ $background:linear-gradient(180deg, #e5c7f9 0%, #faedff 26%);
 
 
 $bodyColor: #462346;
-$bodyFont: 'Inter', sans-serif, "Helvetica Neue", Helvetica, Arial, sans-serif, "Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
-$headerFont: 'Playfair Display', serif, 'Open Sans', sans-serif, "Helvetica Neue", Helvetica, Arial, sans-serif, "Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+$bodyFont: 'Source Sans Pro', sans-serif, "Helvetica Neue", Helvetica, Arial, sans-serif, "Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+$headerFont: 'Playfair Display', serif, 'Open Sans', sans-serif, "Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 $linkColor: #462346!important;
 $headerColor: #462346;
 
@@ -16,6 +16,7 @@ body {
   background: $background;
   color: $bodyColor;
   font-family: $bodyFont;
+  font-size: 17px;
 }
 
 body a {
