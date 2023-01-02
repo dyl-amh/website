@@ -2,8 +2,6 @@
 layout: people
 title: "Bio."
 ---
- Hiya!
-
  I’m Dylan McNulty-Holmes (he/they), a writer and editor from the West Midlands of the UK, currently based in Berlin. My writing has been made into a T-shirt, live-scored by a disco band, and hung in a Späti as part of an art exhibition. It has also appeared in over 20 journals and zines; a selected bibliography of my recent works can be found [on the “writing” page.](/writing)
 
 My current obsessions include exploring how to represent facets of trans identity in art, our complex relationships to pleasure, and using code/digital spaces to open up new possibilities for poetry. 

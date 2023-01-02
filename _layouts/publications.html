@@ -4,17 +4,18 @@ layout: default
 
 {{ content }}
 
-<div>
-  {% include featured_publications.html %}
+<div class="row g-5 mb-5">
   <div class="col-md-6">
-    <img src="{{ site.github.url }}/assets/img/sequinsmall.jpg" alt="Dylan McNulty-Holmes: Home" width="100%">
+    {% include featured_publications.html %}
   </div>
-  <br>
-  <br>
+  <div class="col-md-6">
+    <img src="{{ site.github.url }}/assets/img/hmmthumbnail.png" alt="Dylan McNulty-Holmes: Home" width="100%">
   </div>
+</div>
+
 
 <div>
-  <h2 class="fw-bold border-bottom pb-3 mb-5 title">FORTHCOMING</h2>
+  <h2 class="fw-bold pb-3 mb-5 title">FORTHCOMING</h2>
     {% for item in site.data.publications.forthcoming %}
       <p>{{ item.name }}</p>
     {% endfor %}
@@ -24,8 +25,12 @@ layout: default
 
 
 <div>
-    <h2 class="fw-bold border-bottom pb-3 mb-5 title">SELECTED PREVIOUS (2014-2019)</h2>
+    <h2 class="fw-bold pb-3 mb-5 title">SELECTED PREVIOUS (2014-2019)</h2>
       {% for item in site.data.publications.index %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+        {% if item.url %}
+          <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+        {% else %}
+          <p>{{ item.name }}</p>
+        {% endif %}
       {% endfor %}
   </div>

@@ -3,7 +3,7 @@ layout: contact
 title: "Contact"
 ---
 
-## Open for bookings:
+### Open for bookings:
 
 - Commissions, features, copy writing
 - Proofreading, editing, copy editing

@@ -7,6 +7,8 @@ $headerFont: 'Playfair Display', serif, 'Open Sans', sans-serif, "Apple Color Em
 $linkColor: #462346!important;
 $headerColor: #462346;
 
+$primary: #462346;
+
 .title {
   font-family: $headerFont;
   color: $headerColor;
@@ -27,3 +29,8 @@ h2 {
   font-family: $headerFont;
   color: $headerColor;
   }
+
+  h3 {
+    font-family: $headerFont;
+    color: $headerColor;
+    }
