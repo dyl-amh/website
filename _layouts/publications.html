@@ -5,9 +5,11 @@ layout: default
 {{ content }}
 
 <div>
-  <h3 class="fw-bold border-bottom pb-3 mb-5 title">FORTHCOMING</h3>
+  <h2 class="fw-bold border-bottom pb-3 mb-5 title">FORTHCOMING</h2>
     {% for item in site.data.publications.forthcoming %}
       <p>{{ item.name }}</p>
+      <br>
+      <br>
     {% endfor %}
 </div>
 

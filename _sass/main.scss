@@ -1,9 +1,11 @@
-$background: linear-gradient(180deg, #ecc9ff 0%, #ffdfff 25.48%);
-$bodyColor: #2A3165;
+$background:linear-gradient(180deg, #e5c7f9 0%, #faedff 26%);
+
+
+$bodyColor: #462346;
 $bodyFont: 'Inter', sans-serif, "Helvetica Neue", Helvetica, Arial, sans-serif, "Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 $headerFont: 'Playfair Display', serif, 'Open Sans', sans-serif, "Helvetica Neue", Helvetica, Arial, sans-serif, "Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
-$linkColor: #2A3165!important;
-$headerColor: #21330d;
+$linkColor: #462346!important;
+$headerColor: #462346;
 
 .title {
   font-family: $headerFont;
