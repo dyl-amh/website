@@ -4,7 +4,7 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 people:
-- {name: 'Dylan McNulty-Holmes', email: 'dyl.amh@protonmail.com', image: 'assets/img/dylan-mcnulty-holmes.jpg', url: '/about'}
+- {name: 'Dylan McNulty-Holmes', email: 'dyl.amh@protonmail.com', image: 'assets/img/dylan-mcnulty-holmes-writer-editor.jpeg', url: '/about'}
 
 
 courses:
@@ -13,4 +13,4 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 contacts:
-- {name: 'Dylan McNulty-Holmes', email: 'dyl.amh@protonmail.com', image: 'assets/img/dylan-mcnulty-holmes.jpg'}
+- {name: 'Dylan McNulty-Holmes', email: 'dyl.amh@protonmail.com', image: 'assets/img/dylan-mcnulty-holmes-writer-editor.jpeg'}
