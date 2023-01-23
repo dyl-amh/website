@@ -2,7 +2,7 @@
 layout: people
 title: "Bio."
 ---
- I’m Dylan McNulty-Holmes (he/they), a writer and editor from the West Midlands of the UK, currently based in Berlin. My writing has been made into a T-shirt, live-scored by a disco band, and hung in a Späti as part of an art exhibition. It has also appeared in over 20 journals and zines, won the inaugural Zara Malone Memorial Prize, and been longlisted for a New Media Writing Prize. A selected bibliography of my recent works can be found [here.](/writing)
+ I’m Dylan McNulty-Holmes (he/they), a writer and editor from the West Midlands of the UK, currently based in Berlin. My writing has been made into a T-shirt, live-scored by a disco band, and added to the permanent digital archive of the British Library. It has also appeared in over 20 journals and zines, won the inaugural Zara Malone Memorial Prize, and been shortlisted for a New Media Writing Prize. A selected bibliography of my recent works can be found [here.](/writing)
 
 My current obsessions include exploring how to represent facets of trans identity in art, our complex relationships to pleasure, and using code/digital spaces to open up new possibilities for poetry. 
 
