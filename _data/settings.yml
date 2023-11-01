@@ -4,8 +4,7 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 people:
-- {name: 'Dylan McNulty-Holmes', email: 'dyl.amh@protonmail.com', image: 'assets/img/dylan-mcnulty-holmes-writer-editor.jpeg', url: '/about'}
-
+- {name: 'Dylan McNulty-Holmes', email: 'dyl.amh@protonmail.com', image: 'assets/img/dylan_mcnulty_holmes_bio.jpg'}
 
 courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
@@ -13,4 +12,4 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 contacts:
-- {name: 'Dylan McNulty-Holmes', email: 'dyl.amh@protonmail.com', image: 'assets/img/dylan-mcnulty-holmes-writer-editor.jpeg'}
+- {name: 'Dylan McNulty-Holmes', email: 'dyl.amh@protonmail.com', image: 'assets/img/dylan_mcnulty_holmes_bio.jpg'}
