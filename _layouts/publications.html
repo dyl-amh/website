@@ -6,7 +6,16 @@ layout: default
 
 <div class="row g-5 mb-5">
   <div class="col-md-6">
-    {% include featured_publications.html %}
+    <div>
+      <h2 class="fw-bold pb-3 mb-5 title">Selected Poetry</h2>
+        {% for item in site.data.publications.poetry %}
+        {% if item.url %}
+        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+      {% else %}
+        <p>{{ item.name }}</p>
+      {% endif %}
+        {% endfor %}
+    </div>
   </div>
   <div class="col-md-6">
     <img src="{{ site.github.url }}/assets/img/dylan_mcnulty_holmes_writing.jpg" alt="Dylan McNulty-Holmes: Writing" width="100%">
@@ -15,18 +24,20 @@ layout: default
 
 
 <div>
-  <h2 class="fw-bold pb-3 mb-5 title">FORTHCOMING</h2>
-    {% for item in site.data.publications.forthcoming %}
-      <p>{{ item.name }}</p>
-    {% endfor %}
-    <br>
-    <br>
-</div>
+    <h2 class="fw-bold pb-3 mb-5 title">Selected Fiction</h2>
+      {% for item in site.data.publications.fiction %}
+        {% if item.url %}
+          <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+        {% else %}
+          <p>{{ item.name }}</p>
+        {% endif %}
+      {% endfor %}
+      <br>
+  </div>
 
-
-<div>
-    <h2 class="fw-bold pb-3 mb-5 title">SELECTED PREVIOUS (2014-2019)</h2>
-      {% for item in site.data.publications.index %}
+  <div>
+    <h2 class="fw-bold pb-3 mb-5 title">Selected Non-Fiction</h2>
+      {% for item in site.data.publications.nonfiction %}
         {% if item.url %}
           <p><a href="{{ item.url }}">{{ item.name }}</a></p>
         {% else %}

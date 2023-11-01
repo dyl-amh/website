@@ -1,29 +1,26 @@
-forthcoming:
-- {name: '"A HISTORY OF SUFFOCATION," a short story for Redivider.'}
-- {name: '"DYLAN, UNFORTUNATELY," a poem in "Responses to Untitled (eye with comet)(c.1985) by Paul Thek", an anthology by Pilot Press.'}
-- {name: '“A LOVER’S OASIS”, “THE KING OF A RAINY COUNTRY” and “AS RULY AS A BODY CAN BE”, 3 poems for the Sunday Mornings at the River Quarterly Anthology.'}
-- {name: '"CONVERSATIONS IMAGINED, FELT, AND OVERHEARD...", a poem for Die Leere Mitte.'}
-
 featured:
-- {name: '“HALF A MILLION MOTHERS”, an interactive poem shortlisted for the New Media Writing Prize.', url: 'https://newmediawritingprize.co.uk/2022-shortlist/'}
-- {name: '“MASC FOR FEMME” and “ORDINARY TALK”, two poems for Anomaly Magazine.', url: 'https://anmly.org/ap35/dylan-mcnulty-holmes/'}
-- {name: '“INFERNAL DESIRE MACHINES”, a poem for /THIS.', url: 'https://thisissue01.cargo.site/Dylan'}
-- {name: '“EXPERIENCING GENDER EUPHORIA VIA 4 EURO MENS’ RUNNING SHORTS”, a feature for DADDY Magazine.', url: 'https://www.daddy.land/stories/experiencing-gender-euphoria-via-7-euro-mens-running-shorts'}
+- {name: 'A HISTORY OF SUFFOCATION, a short story in Redivider.', url: 'https://redivider.emerson.edu/history-of-suffocation/'}
+- {name: 'HALF A MILLION MOTHERS, an interactive poem shortlisted for the New Media Writing Prize.', url: 'https://newmediawritingprize.co.uk/2022-shortlist/'}
+- {name: 'MASC FOR FEMME and ORDINARY TALK, two poems in ANMLY.', url: 'https://anmly.org/ap35/dylan-mcnulty-holmes/'}
+- {name: 'FRUIT JUICE, a poem from the Dreamland Anthology.', url: 'https://fifthwheelpress.com/dreamland/'}
 
-index:
-- {name: '“THE ZOOKEEPER”, flash fiction for Visual Verse.', url: 'https://visualverse.org/submissions/the-zookeeper/'}
-- {name: '“THE BEEKEEPER”, an erotic story for Nothing to See Here. (Illustrations by Judy Moore available as a T-shirt at this link.)', url: 'https://tom-or-judy.creator-spring.com/listing/buy-bee-keeper?product=389'}
-- {name: '“THE MORRIGAN”, a short story for Literally Speaking Journal (print, edition of 100).', url: 'https://www.facebook.com/literallyspeakingberlin'}
-- {name: 'INTERVIEW SERIES: BRUCE LABRUCE, NHU DUONG, ISABEL LEWIS, a series of features for SLEEK magazine.', url: 'https://www.sleek-mag.com/article/nhu-duong-interview/'}
-- {name: '“UNTITLED”, part of a collaborative short story for SAND Journal’s Collective Ghost Story.', url: 'https://www.facebook.com/events/285420588627131/'}
-- {name: '“DAPPER DAN IS THE COMEBACK KING”, a feature for Gestalten Journal.', url: 'https://gestalten.com/blogs/journal/dapper-dan-comeback-king-of-high-fashion-with-street-sensibility'}
-- {name: '“AN ENCYCLOPEDIA OF PRESUMED JOYS”, a poem for Visual Verse.', url: 'https://visualverse.org/submissions/encyclopedia-presumed-joys/'}
-- {name: '“UNTITLED (SILENCE TAPERS TO A POINT)”, a poem for Disappearer: The Lost Works of Martiza Braun at Mindscape Universe.'}
-- {name: '“ON FABULOUS FEMME FAILURE”, a feature for Femsplain magazine.'}
-- {name: '“FINGER TRAP”, a poem for LEMONOPITA: A Lost/Lust/Last Story at LAGE:EGAL.'}
-- {name: '“WHAT DO I DO NOW?”, a short story for Thick Skin N° 5 (print, edition of 25).'}
-- {name: '“FRUIT.”, a poem for For Every Year.'}
-- {name: '“WHAT MAKES A MAN?”, a short story for Thick Skin N° 2 (print, edition of 25).  Performed with live music from Private Agenda and Nat Redding.'}
-- {name: '“SEPTEMBER”, a poem for Iris Magazine.'}
-- {name: '“SPEAK, SPIN”, a poetry collection, winner of the Zara Malone Memorial Prize.'}
-- {name: '“SOME KINDA HATE”, a short story for Exetera Magazine.'}
+poetry:
+- {name: 'FRUIT JUICE - Dreamland (Fifth Wheel Press).', url: 'https://fifthwheelpress.com/dreamland/'}
+- {name: 'MASC FOR FEMME & ORDINARY TALK- ANMLY.', url: 'https://anmly.org/ap35/dylan-mcnulty-holmes/'}
+- {name: 'HALF A MILLION MOTHERS- 2022 New Media Writing Prize.', url: 'https://newmediawritingprize.co.uk/2022-shortlist/'}
+- {name: 'EASTER SUNDAY- The New Welsh Review.', url: 'https://newwelshreview.com/easter-sunday'}
+- {name: 'DYLAN, UNFORTUNATELY - Responses to Untitled (eye with comet) (c.1985) by Paul Thek (Pilot Press). ', url: 'https://pilotpress.co.uk/catalogue'}
+- {name: 'NYCTINASTY - miniskirt magazine.', url: 'https://miniskirtmagazine.com/issue-18-holiday-issue-19-valentines-day-the-double-issue/dylan-mcnulty-holmes-poetry-nyctinasty/'}
+- {name: 'A LOVERS OASIS & OTHER POEMS - A Love Letter to A Thousand Yesterdays (Sunday Mornings at the River Press).', url: 'https://www.waterstones.com/book/a-love-letter-to-a-thousand-yesterdays/rebecca-rijsdijk/leanne-kuiper/9798386785789'}
+- {name: 'INFERNAL DESIRE MACHINES- /THIS.', url: 'https://thisissue01.cargo.site/Dylan'}
+
+fiction:
+- {name: 'SO YOU WANT TO TALK ABOUT SLUGS - Mister Magazine (forthcoming).'}
+- {name: 'A HISTORY OF SUFFOCATION- Redivider (nominated for Best of the Web).', url: 'https://redivider.emerson.edu/history-of-suffocation/'}
+- {name: '“THE ZOOKEEPER”- Visual Verse.', url: 'https://visualverse.org/submissions/the-zookeeper/'}
+- {name: '“THE MORRIGAN”- Literally Speaking.', url: 'https://www.facebook.com/literallyspeakingberlin'}
+
+nonfiction:
+
+- {name: 'EXPERIENCING GENDER EUPHORIA VIA 4 EURO MENS’ RUNNING SHORTS- DADDY Magazine.', url: 'https://www.daddy.land/stories/experiencing-gender-euphoria-via-7-euro-mens-running-shorts'}
+- {name: 'USING FASHION TO BECOME WHO YOU WANT TO BE: THE TRANSFORMATIVE POWER OF NHU DUONG - Sleek Magazine.', url: 'https://www.sleek-mag.com/article/nhu-duong-interview/'}
