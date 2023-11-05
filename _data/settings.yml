@@ -1,15 +1,11 @@
 menu:
 - {name: 'bio', url: '/bio'}
+- {name: 'book', url: '/book'}
 - {name: 'writing', url: '/writing'}
 - {name: 'contact', url: '/contact'}
 
 people:
 - {name: 'Dylan McNulty-Holmes', email: 'dyl.amh@protonmail.com', image: 'assets/img/dylan_mcnulty_holmes_bio.jpg'}
-
-courses:
-- {name: 'Vector Calculus', url: 'vector-calculus'}
-- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-- {name: 'Stellar Structures', url: 'stellar-structures'}
 
 contacts:
 - {name: 'Dylan McNulty-Holmes', email: 'dyl.amh@protonmail.com', image: 'assets/img/dylan_mcnulty_holmes_bio.jpg'}

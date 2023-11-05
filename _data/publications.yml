@@ -16,7 +16,7 @@ poetry:
 
 fiction:
 - {name: 'SO YOU WANT TO TALK ABOUT SLUGS - Mister Magazine (forthcoming).'}
-- {name: 'A HISTORY OF SUFFOCATION- Redivider (nominated for Best of the Web).', url: 'https://redivider.emerson.edu/history-of-suffocation/'}
+- {name: 'A HISTORY OF SUFFOCATION- Redivider (nominated for Best of the Net).', url: 'https://redivider.emerson.edu/history-of-suffocation/'}
 - {name: '“THE ZOOKEEPER”- Visual Verse.', url: 'https://visualverse.org/submissions/the-zookeeper/'}
 - {name: '“THE MORRIGAN”- Literally Speaking.', url: 'https://www.facebook.com/literallyspeakingberlin'}
 
