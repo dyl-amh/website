@@ -18,7 +18,7 @@ poetry:
 fiction:
 - {name: 'A HISTORY OF SUFFOCATION- Redivider (nominated for a Pushcart Prize  Best of the Net).', url: 'https://redivider.emerson.edu/history-of-suffocation/'}
 - {name: 'THE ZOOKEEPER- Visual Verse.', url: 'https://visualverse.org/submissions/the-zookeeper/'}
-- {name: 'THE MORRIGAN”- Literally Speaking.', url: 'https://www.facebook.com/literallyspeakingberlin'}
+- {name: 'THE MORRIGAN- Literally Speaking.', url: 'https://www.facebook.com/literallyspeakingberlin'}
 
 nonfiction:
 - {name: 'EXPERIENCING GENDER EUPHORIA VIA 4 EURO MENS’ RUNNING SHORTS- DADDY Magazine.', url: 'https://www.daddy.land/stories/experiencing-gender-euphoria-via-7-euro-mens-running-shorts'}
