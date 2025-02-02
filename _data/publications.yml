@@ -19,7 +19,7 @@ online:
 
 print:
 - {name: 'Anodyne | “Dysp / hor / rax / ia / Banach Tarski', url: 'https://anodynemag.com/vol3/'}
-- {name: 'Die Leere Mitte | “conversations imagined, felt and overheard...', url: 'https://leserpent.wordpress.com/2022/09/20/die-leere-mitte-issue-15/'}
+- {name: 'Die Leere Mitte | “conversations imagined, felt and overheard [...]"', url: 'https://leserpent.wordpress.com/2022/09/20/die-leere-mitte-issue-15/'}
 - {name: 'Fifth Wheel | “Fruit Juice”', url: 'https://fifthwheelpress.com/dreamland/'}
 - {name: 'Pilot Press | “Dylan, Unfortunately”', url: 'https://pilotpress.co.uk/catalogue'}
 - {name: 'Puerto del Sol | “Your Womb Now Lives in a Medical Waste Bin, Congratulations” (forthcoming)'}

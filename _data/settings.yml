@@ -6,3 +6,6 @@ menu:
 
 contacts:
 - {name: 'Dylan McNulty-Holmes', email: 'dyl.amh@protonmail.com', image: 'assets/img/dylan_mcnulty_holmes_bio.jpg'}
+
+people:
+- {name: 'Dylan McNulty-Holmes', email: 'dyl.amh@protonmail.com', image: 'assets/img/dylan_mcnulty_holmes_bio.jpg'}

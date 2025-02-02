@@ -3,11 +3,4 @@ layout: contact
 title: "Contact"
 ---
 
-### Open for bookings:
-
-- Commissions, features, copy writing
-- Proofreading, editing, copy editing
-- Writing, poetry, and creativity workshops/readings
-- Collaborations across media (music, art, etc.)
-
-Get in touch ✨
+I can infrequently be found on [Instagram @dyl.amh](https://www.instagram.com/dyl.amh/), and on [Bluesky @hotpoet](https://bsky.app/profile/hotpoet.bsky.social). Your best bet to reach me is email: 
