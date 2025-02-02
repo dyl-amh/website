@@ -1,25 +1,32 @@
 featured:
-- {name: 'A HISTORY OF SUFFOCATION, a short story in Redivider.', url: 'https://redivider.emerson.edu/history-of-suffocation/'}
-- {name: 'HALF A MILLION MOTHERS, an interactive poem shortlisted for the New Media Writing Prize.', url: 'https://newmediawritingprize.co.uk/2022-shortlist/'}
-- {name: 'MASC FOR FEMME and ORDINARY TALK, two poems in ANMLY.', url: 'https://anmly.org/ap35/dylan-mcnulty-holmes/'}
-- {name: 'FRUIT JUICE, a poem from the Dreamland Anthology.', url: 'https://fifthwheelpress.com/dreamland/'}
+- {name: '“Ode to my Tiny Preposterous Moustache’s First International Flight”, a poem in Split Lip. ', url:'https://splitlipthemag.com/poetry/0424/dylan-mcnulty-holmes'}
+- {name: '“A History of Suffocation”, a short story in Redivider. ', url: 'https://redivider.emerson.edu/history-of-suffocation/'}
+- {name: '“Half a Million Mothers”, a longform digital poem shortlisted for the 2022 New Media Writing Prize.', url: 'https://newmediawritingprize.co.uk/2022-shortlist/'}
+- {name: '“The Search Engine Autocompletes My Query to ‘Do Horses Have Teeth?’”, a poem in DIAGRAM.', url: 'https://thediagram.com/24_4/mcnulty-holmes.html'}
 
-poetry:
-- {name: "ODE TO MY TINY PREPOSTEROUS MOUSTACHE'S FIRST INTERNAL FLIGHT - Split Lip (forthcoming)."}
-- {name: 'MASC FOR FEMME & ORDINARY TALK- ANMLY.', url: 'https://anmly.org/ap35/dylan-mcnulty-holmes/'}
-- {name: 'HALF A MILLION MOTHERS- 2022 New Media Writing Prize.', url: 'https://newmediawritingprize.co.uk/2022-shortlist/'}
-- {name: 'EASTER SUNDAY- The New Welsh Review.', url: 'https://newwelshreview.com/easter-sunday'}
-- {name: 'CONVERSATIONS IMAGINGED FELT AND OVERHEARD...- Die Leere Mitte.', url: 'https://leserpent.wordpress.com/2022/09/20/die-leere-mitte-issue-15/'}
-- {name: 'DYLAN, UNFORTUNATELY - Responses to Untitled (eye with comet) (c.1985) by Paul Thek (Pilot Press). ', url: 'https://pilotpress.co.uk/catalogue'}
-- {name: 'FRUIT JUICE - Dreamland (Fifth Wheel Press).', url: 'https://fifthwheelpress.com/dreamland/'}
-- {name: 'NYCTINASTY - miniskirt magazine.', url: 'https://miniskirtmagazine.com/issue-18-holiday-issue-19-valentines-day-the-double-issue/dylan-mcnulty-holmes-poetry-nyctinasty/'}
-- {name: 'A LOVERS OASIS & OTHER POEMS - A Love Letter to A Thousand Yesterdays (Sunday Mornings at the River Press).', url: 'https://www.waterstones.com/book/a-love-letter-to-a-thousand-yesterdays/rebecca-rijsdijk/leanne-kuiper/9798386785789'}
+online:
+- {name: 'ANMLY | “Masc for Femme”, “Ordinary Talk”', url: 'https://anmly.org/ap35/dylan-mcnulty-holmes/'}
+- {name: 'DIAGRAM | “The Search Engine Autocompletes My Query to ‘Do Horses Have Teeth?’”', url: 'https://thediagram.com/24_4/mcnulty-holmes.html'}
+- {name: 'Emerge | “Hard-Won Spring Aches with Promise”, “The School of Being Poor and Trans”', url: 'https://emergeliteraryjournal.com/issue-31/'}
+- {name: 'eunoia | “Survivalism for Hedonists”, seven other poems', url: 'https://eunoiareview.wordpress.com/tag/dylan-mcnulty-holmes/'}
+- {name: 'HNDL | Two poems (forthcoming)'}
+- {name: 'miniskirt | “Nyctinasty”', url: 'https://miniskirtmagazine.com/issue-18-holiday-issue-19-valentines-day-the-double-issue/dylan-mcnulty-holmes-poetry-nyctinasty/'}
+- {name: 'New Media Writing Prize | “Half a Million Mothers”', url: 'https://newmediawritingprize.co.uk/2022-shortlist/'}
+- {name: 'The New Welsh Review | “Easter Sunday”', url: 'https://newwelshreview.com/easter-sunday'}
+- {name: 'Redivider | “A History of Suffocation” (nominated for a Pushcart Prize, and Best of the Net)', url: 'https://redivider.emerson.edu/history-of-suffocation/'}
+- {name: 'Split Lip | “Ode to My Preposterous Tiny Moustache’s First International Flight”', url:'https://splitlipthemag.com/poetry/0424/dylan-mcnulty-holmes'}
+- {name: 'Visual Verse | “The Zookeeper”', url: 'https://visualverse.org/submissions/the-zookeeper/'}
 
-fiction:
-- {name: 'A HISTORY OF SUFFOCATION- Redivider (nominated for a Pushcart Prize  Best of the Net).', url: 'https://redivider.emerson.edu/history-of-suffocation/'}
-- {name: 'THE ZOOKEEPER- Visual Verse.', url: 'https://visualverse.org/submissions/the-zookeeper/'}
-- {name: 'THE MORRIGAN- Literally Speaking.', url: 'https://www.facebook.com/literallyspeakingberlin'}
+print:
+- {name: 'Anodyne | “Dysp / hor / rax / ia / Banach Tarski', url: 'https://anodynemag.com/vol3/'}
+- {name: 'Die Leere Mitte | “conversations imagined, felt and overheard...', url: 'https://leserpent.wordpress.com/2022/09/20/die-leere-mitte-issue-15/'}
+- {name: 'Fifth Wheel | “Fruit Juice”', url: 'https://fifthwheelpress.com/dreamland/'}
+- {name: 'Pilot Press | “Dylan, Unfortunately”', url: 'https://pilotpress.co.uk/catalogue'}
+- {name: 'Puerto del Sol | “Your Womb Now Lives in a Medical Waste Bin, Congratulations” (forthcoming)'}
+- {name: 'Querencia Press | “Ex Voto, Teenage Fumble”', url: 'https://www.querenciapress.com/not-ghosts-but-spirits-volume-4'}
+- {name: 'Sunday Mornings at the River | “A Lover’s Oasis”, two other poems', url: 'https://www.waterstones.com/book/a-love-letter-to-a-thousand-yesterdays/rebecca-rijsdijk/leanne-kuiper/9798386785789'}
 
-nonfiction:
-- {name: 'EXPERIENCING GENDER EUPHORIA VIA 4 EURO MENS’ RUNNING SHORTS- DADDY Magazine.', url: 'https://www.daddy.land/stories/experiencing-gender-euphoria-via-7-euro-mens-running-shorts'}
-- {name: 'USING FASHION TO BECOME WHO YOU WANT TO BE: THE TRANSFORMATIVE POWER OF NHU DUONG - Sleek Magazine.', url: 'https://www.sleek-mag.com/article/nhu-duong-interview/'}
+
+press:
+- {name: 'fourteen poems | Poem of the Week', url: 'https://www.fourteenpoems.com/newsletter'}
+- {name: 'That Poetry Thing | Interview', url: 'https://open.substack.com/pub/thatpoetrything/p/33-dylan-mcnulty-holmes-writer-and?r=hixf7&utm_campaign=post&utm_medium=email'}

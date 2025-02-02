@@ -7,8 +7,8 @@ layout: default
 <div class="row g-5 mb-5">
   <div class="col-md-6">
     <div>
-      <h2 class="fw-bold pb-3 mb-5 title">Selected Poetry</h2>
-        {% for item in site.data.publications.poetry %}
+      <h2 class="fw-bold pb-3 mb-5 title">Online</h2>
+        {% for item in site.data.publications.online %}
         {% if item.url %}
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% else %}
@@ -24,8 +24,8 @@ layout: default
 
 
 <div>
-    <h2 class="fw-bold pb-3 mb-5 title">Selected Fiction</h2>
-      {% for item in site.data.publications.fiction %}
+    <h2 class="fw-bold pb-3 mb-5 title">In Print</h2>
+      {% for item in site.data.publications.print %}
         {% if item.url %}
           <p><a href="{{ item.url }}">{{ item.name }}</a></p>
         {% else %}
@@ -36,8 +36,8 @@ layout: default
   </div>
 
   <div>
-    <h2 class="fw-bold pb-3 mb-5 title">Selected Non-Fiction</h2>
-      {% for item in site.data.publications.nonfiction %}
+    <h2 class="fw-bold pb-3 mb-5 title">Press</h2>
+      {% for item in site.data.publications.press %}
         {% if item.url %}
           <p><a href="{{ item.url }}">{{ item.name }}</a></p>
         {% else %}
